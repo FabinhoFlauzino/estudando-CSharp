@@ -1,0 +1,15 @@
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\01ImprimindoDadosBasicos\bin\Debug\net8.0\01ImprimindoDadosBasicos.exe
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\01ImprimindoDadosBasicos\bin\Debug\net8.0\01ImprimindoDadosBasicos.deps.json
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\01ImprimindoDadosBasicos\bin\Debug\net8.0\01ImprimindoDadosBasicos.runtimeconfig.json
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\01ImprimindoDadosBasicos\bin\Debug\net8.0\01ImprimindoDadosBasicos.dll
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\01ImprimindoDadosBasicos\bin\Debug\net8.0\01ImprimindoDadosBasicos.pdb
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\01ImprimindoDadosBasicos\obj\Debug\net8.0\01ImprimindoDadosBasicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\01ImprimindoDadosBasicos\obj\Debug\net8.0\01ImprimindoDadosBasicos.AssemblyInfoInputs.cache
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\01ImprimindoDadosBasicos\obj\Debug\net8.0\01ImprimindoDadosBasicos.AssemblyInfo.cs
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\01ImprimindoDadosBasicos\obj\Debug\net8.0\01ImprimindoDadosBasicos.csproj.CoreCompileInputs.cache
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\01ImprimindoDadosBasicos\obj\Debug\net8.0\01ImprimindoDadosBasicos.sourcelink.json
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\01ImprimindoDadosBasicos\obj\Debug\net8.0\01ImprimindoDadosBasicos.dll
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\01ImprimindoDadosBasicos\obj\Debug\net8.0\refint\01ImprimindoDadosBasicos.dll
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\01ImprimindoDadosBasicos\obj\Debug\net8.0\01ImprimindoDadosBasicos.pdb
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\01ImprimindoDadosBasicos\obj\Debug\net8.0\01ImprimindoDadosBasicos.genruntimeconfig.cache
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\01ImprimindoDadosBasicos\obj\Debug\net8.0\ref\01ImprimindoDadosBasicos.dll
