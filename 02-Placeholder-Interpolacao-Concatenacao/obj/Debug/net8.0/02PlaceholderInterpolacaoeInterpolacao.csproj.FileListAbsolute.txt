@@ -1,0 +1,15 @@
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\02PlaceholderInterpolacaoeInterpolacao\bin\Debug\net8.0\02PlaceholderInterpolacaoeInterpolacao.exe
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\02PlaceholderInterpolacaoeInterpolacao\bin\Debug\net8.0\02PlaceholderInterpolacaoeInterpolacao.deps.json
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\02PlaceholderInterpolacaoeInterpolacao\bin\Debug\net8.0\02PlaceholderInterpolacaoeInterpolacao.runtimeconfig.json
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\02PlaceholderInterpolacaoeInterpolacao\bin\Debug\net8.0\02PlaceholderInterpolacaoeInterpolacao.dll
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\02PlaceholderInterpolacaoeInterpolacao\bin\Debug\net8.0\02PlaceholderInterpolacaoeInterpolacao.pdb
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\02PlaceholderInterpolacaoeInterpolacao\obj\Debug\net8.0\02PlaceholderInterpolacaoeInterpolacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\02PlaceholderInterpolacaoeInterpolacao\obj\Debug\net8.0\02PlaceholderInterpolacaoeInterpolacao.AssemblyInfoInputs.cache
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\02PlaceholderInterpolacaoeInterpolacao\obj\Debug\net8.0\02PlaceholderInterpolacaoeInterpolacao.AssemblyInfo.cs
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\02PlaceholderInterpolacaoeInterpolacao\obj\Debug\net8.0\02PlaceholderInterpolacaoeInterpolacao.csproj.CoreCompileInputs.cache
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\02PlaceholderInterpolacaoeInterpolacao\obj\Debug\net8.0\02PlaceholderInterpolacaoeInterpolacao.sourcelink.json
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\02PlaceholderInterpolacaoeInterpolacao\obj\Debug\net8.0\02PlaceholderInterpolacaoeInterpolacao.dll
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\02PlaceholderInterpolacaoeInterpolacao\obj\Debug\net8.0\refint\02PlaceholderInterpolacaoeInterpolacao.dll
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\02PlaceholderInterpolacaoeInterpolacao\obj\Debug\net8.0\02PlaceholderInterpolacaoeInterpolacao.pdb
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\02PlaceholderInterpolacaoeInterpolacao\obj\Debug\net8.0\02PlaceholderInterpolacaoeInterpolacao.genruntimeconfig.cache
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\02PlaceholderInterpolacaoeInterpolacao\obj\Debug\net8.0\ref\02PlaceholderInterpolacaoeInterpolacao.dll
