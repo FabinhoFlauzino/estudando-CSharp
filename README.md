@@ -30,6 +30,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 - 01 Imprimindo dados básicos
+- 02-Placeholder-Interpolacao-Concatenacao
+- 03-Exercicio-Fixacao-01-02
+- 04-Conversao-Implicita-e-Casting
 
 ## 🔖 Layout
 
