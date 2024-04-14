@@ -1,0 +1,15 @@
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\05OperadoresAritimeticos\bin\Debug\net8.0\05OperadoresAritimeticos.exe
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\05OperadoresAritimeticos\bin\Debug\net8.0\05OperadoresAritimeticos.deps.json
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\05OperadoresAritimeticos\bin\Debug\net8.0\05OperadoresAritimeticos.runtimeconfig.json
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\05OperadoresAritimeticos\bin\Debug\net8.0\05OperadoresAritimeticos.dll
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\05OperadoresAritimeticos\bin\Debug\net8.0\05OperadoresAritimeticos.pdb
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\05OperadoresAritimeticos\obj\Debug\net8.0\05OperadoresAritimeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\05OperadoresAritimeticos\obj\Debug\net8.0\05OperadoresAritimeticos.AssemblyInfoInputs.cache
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\05OperadoresAritimeticos\obj\Debug\net8.0\05OperadoresAritimeticos.AssemblyInfo.cs
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\05OperadoresAritimeticos\obj\Debug\net8.0\05OperadoresAritimeticos.csproj.CoreCompileInputs.cache
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\05OperadoresAritimeticos\obj\Debug\net8.0\05OperadoresAritimeticos.sourcelink.json
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\05OperadoresAritimeticos\obj\Debug\net8.0\05OperadoresAritimeticos.dll
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\05OperadoresAritimeticos\obj\Debug\net8.0\refint\05OperadoresAritimeticos.dll
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\05OperadoresAritimeticos\obj\Debug\net8.0\05OperadoresAritimeticos.pdb
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\05OperadoresAritimeticos\obj\Debug\net8.0\05OperadoresAritimeticos.genruntimeconfig.cache
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\05OperadoresAritimeticos\obj\Debug\net8.0\ref\05OperadoresAritimeticos.dll
