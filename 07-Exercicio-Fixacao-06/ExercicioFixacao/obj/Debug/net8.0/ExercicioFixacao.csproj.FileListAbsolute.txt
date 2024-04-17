@@ -1,0 +1,15 @@
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\07-Exercicio-Fixacao-06\ExercicioFixacao\bin\Debug\net8.0\ExercicioFixacao.exe
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\07-Exercicio-Fixacao-06\ExercicioFixacao\bin\Debug\net8.0\ExercicioFixacao.deps.json
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\07-Exercicio-Fixacao-06\ExercicioFixacao\bin\Debug\net8.0\ExercicioFixacao.runtimeconfig.json
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\07-Exercicio-Fixacao-06\ExercicioFixacao\bin\Debug\net8.0\ExercicioFixacao.dll
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\07-Exercicio-Fixacao-06\ExercicioFixacao\bin\Debug\net8.0\ExercicioFixacao.pdb
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\07-Exercicio-Fixacao-06\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\07-Exercicio-Fixacao-06\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.AssemblyInfoInputs.cache
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\07-Exercicio-Fixacao-06\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.AssemblyInfo.cs
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\07-Exercicio-Fixacao-06\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.csproj.CoreCompileInputs.cache
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\07-Exercicio-Fixacao-06\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.sourcelink.json
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\07-Exercicio-Fixacao-06\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.dll
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\07-Exercicio-Fixacao-06\ExercicioFixacao\obj\Debug\net8.0\refint\ExercicioFixacao.dll
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\07-Exercicio-Fixacao-06\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.pdb
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\07-Exercicio-Fixacao-06\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.genruntimeconfig.cache
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\07-Exercicio-Fixacao-06\ExercicioFixacao\obj\Debug\net8.0\ref\ExercicioFixacao.dll
