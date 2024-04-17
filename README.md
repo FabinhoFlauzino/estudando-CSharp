@@ -33,6 +33,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - 02-Placeholder-Interpolacao-Concatenacao
 - 03-Exercicio-Fixacao-01-02
 - 04-Conversao-Implicita-e-Casting
+- 05-Operadores-Aritimeticos
+- 06-Entrada-de-Dados
+- 07-Exercicio-Fixacao-06
+- 08-Exercicios-Propostos-Parte-1 com 6 Exercícios
 
 ## 🔖 Layout
 
