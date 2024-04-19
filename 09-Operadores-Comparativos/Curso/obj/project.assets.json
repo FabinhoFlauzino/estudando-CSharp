@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fabinho\\Desktop\\GavetaDEV\\c-sharp\\09- Operadores-Comparativos\\Curso\\Curso.csproj",
+      "projectUniqueName": "C:\\Users\\Fabinho\\Desktop\\GavetaDEV\\c-sharp\\09-Operadores-Comparativos\\Curso\\Curso.csproj",
       "projectName": "Curso",
-      "projectPath": "C:\\Users\\Fabinho\\Desktop\\GavetaDEV\\c-sharp\\09- Operadores-Comparativos\\Curso\\Curso.csproj",
+      "projectPath": "C:\\Users\\Fabinho\\Desktop\\GavetaDEV\\c-sharp\\09-Operadores-Comparativos\\Curso\\Curso.csproj",
       "packagesPath": "C:\\Users\\Fabinho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fabinho\\Desktop\\GavetaDEV\\c-sharp\\09- Operadores-Comparativos\\Curso\\obj\\",
+      "outputPath": "C:\\Users\\Fabinho\\Desktop\\GavetaDEV\\c-sharp\\09-Operadores-Comparativos\\Curso\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
