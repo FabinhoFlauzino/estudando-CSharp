@@ -1,27 +1,32 @@
-﻿namespace Course
+﻿namespace Curso
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int a = 10;
-            bool c1 = a < 10;
-            bool c2 = a < 20;
-            bool c3 = a > 10;
-            bool c4 = a > 5;
-            Console.WriteLine(c1); //False
-            Console.WriteLine(c2); //True
-            Console.WriteLine(c3); //False  
-            Console.WriteLine(c4); //True
-            Console.WriteLine("------------");
-            bool c5 = a <= 10;
-            bool c6 = a >= 10;
-            bool c7 = a == 10;
-            bool c8 = a != 10;
-            Console.WriteLine(c5); //True
-            Console.WriteLine(c6); //True
-            Console.WriteLine(c7); //True
-            Console.WriteLine(c8); //False 
+            bool cond1 = 4 != 5;
+            bool cond2 = 3 < 2 && 4 != 5;
+
+            bool cond3 = 4 != 5 || 4 > 5;
+
+            bool cond4 = !(2 > 3) && (4 != 5);
+
+            Console.WriteLine(cond1);//True
+            Console.WriteLine(cond2);//False
+            Console.WriteLine(cond3);//True
+            Console.WriteLine(cond4);//True
+
+            Console.WriteLine("----------------");
+
+            //Entendendo a precedencia
+            // ! tem precendencia em && ee || 
+            // && tem precedencia em ||
+
+            bool cond5 = 10 < 5; //false
+            bool cond6 = cond1 || cond3 && cond2; //true -> Primeiro resolve o && e depois o ||
+
+            Console.WriteLine(cond5);
+            Console.WriteLine(cond6);
         }
     }
 }
