@@ -1,0 +1,15 @@
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\16-For\bin\Debug\net8.0\16-For.exe
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\16-For\bin\Debug\net8.0\16-For.deps.json
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\16-For\bin\Debug\net8.0\16-For.runtimeconfig.json
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\16-For\bin\Debug\net8.0\16-For.dll
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\16-For\bin\Debug\net8.0\16-For.pdb
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\16-For\obj\Debug\net8.0\16-For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\16-For\obj\Debug\net8.0\16-For.AssemblyInfoInputs.cache
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\16-For\obj\Debug\net8.0\16-For.AssemblyInfo.cs
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\16-For\obj\Debug\net8.0\16-For.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\16-For\obj\Debug\net8.0\16-For.sourcelink.json
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\16-For\obj\Debug\net8.0\16-For.dll
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\16-For\obj\Debug\net8.0\refint\16-For.dll
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\16-For\obj\Debug\net8.0\16-For.pdb
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\16-For\obj\Debug\net8.0\16-For.genruntimeconfig.cache
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\16-For\obj\Debug\net8.0\ref\16-For.dll

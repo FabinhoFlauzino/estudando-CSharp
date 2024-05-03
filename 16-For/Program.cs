@@ -1,0 +1,22 @@
+﻿namespace _16_For
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Qunatos números inteiros você vai digitar? ");
+            int N = int.Parse(Console.ReadLine());
+
+            int soma = 0;
+
+            for (int i = 1; i <= N; i++)
+            {
+                Console.Write($"Valor #{i}: ");
+                int valor = int.Parse(Console.ReadLine());
+                soma += valor;
+            }
+
+            Console.WriteLine($"Soma = {soma}");
+        }
+    }
+}
