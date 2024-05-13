@@ -1,0 +1,15 @@
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\18-Orientacao-Objetos\01-resolvendo-problema-sem-orientaca-objetos\SemOrientacaoObjetos\bin\Debug\net8.0\SemOrientacaoObjetos.exe
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\18-Orientacao-Objetos\01-resolvendo-problema-sem-orientaca-objetos\SemOrientacaoObjetos\bin\Debug\net8.0\SemOrientacaoObjetos.deps.json
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\18-Orientacao-Objetos\01-resolvendo-problema-sem-orientaca-objetos\SemOrientacaoObjetos\bin\Debug\net8.0\SemOrientacaoObjetos.runtimeconfig.json
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\18-Orientacao-Objetos\01-resolvendo-problema-sem-orientaca-objetos\SemOrientacaoObjetos\bin\Debug\net8.0\SemOrientacaoObjetos.dll
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\18-Orientacao-Objetos\01-resolvendo-problema-sem-orientaca-objetos\SemOrientacaoObjetos\bin\Debug\net8.0\SemOrientacaoObjetos.pdb
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\18-Orientacao-Objetos\01-resolvendo-problema-sem-orientaca-objetos\SemOrientacaoObjetos\obj\Debug\net8.0\SemOrientacaoObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\18-Orientacao-Objetos\01-resolvendo-problema-sem-orientaca-objetos\SemOrientacaoObjetos\obj\Debug\net8.0\SemOrientacaoObjetos.AssemblyInfoInputs.cache
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\18-Orientacao-Objetos\01-resolvendo-problema-sem-orientaca-objetos\SemOrientacaoObjetos\obj\Debug\net8.0\SemOrientacaoObjetos.AssemblyInfo.cs
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\18-Orientacao-Objetos\01-resolvendo-problema-sem-orientaca-objetos\SemOrientacaoObjetos\obj\Debug\net8.0\SemOrientacaoObjetos.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\18-Orientacao-Objetos\01-resolvendo-problema-sem-orientaca-objetos\SemOrientacaoObjetos\obj\Debug\net8.0\SemOrientacaoObjetos.sourcelink.json
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\18-Orientacao-Objetos\01-resolvendo-problema-sem-orientaca-objetos\SemOrientacaoObjetos\obj\Debug\net8.0\SemOrientacaoObjetos.dll
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\18-Orientacao-Objetos\01-resolvendo-problema-sem-orientaca-objetos\SemOrientacaoObjetos\obj\Debug\net8.0\refint\SemOrientacaoObjetos.dll
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\18-Orientacao-Objetos\01-resolvendo-problema-sem-orientaca-objetos\SemOrientacaoObjetos\obj\Debug\net8.0\SemOrientacaoObjetos.pdb
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\18-Orientacao-Objetos\01-resolvendo-problema-sem-orientaca-objetos\SemOrientacaoObjetos\obj\Debug\net8.0\SemOrientacaoObjetos.genruntimeconfig.cache
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\18-Orientacao-Objetos\01-resolvendo-problema-sem-orientaca-objetos\SemOrientacaoObjetos\obj\Debug\net8.0\ref\SemOrientacaoObjetos.dll
