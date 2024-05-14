@@ -1,0 +1,15 @@
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\18-Orientacao-Objetos\02-Criando-Classes\bin\Debug\net8.0\02-Criando-Classes.exe
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\18-Orientacao-Objetos\02-Criando-Classes\bin\Debug\net8.0\02-Criando-Classes.deps.json
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\18-Orientacao-Objetos\02-Criando-Classes\bin\Debug\net8.0\02-Criando-Classes.runtimeconfig.json
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\18-Orientacao-Objetos\02-Criando-Classes\bin\Debug\net8.0\02-Criando-Classes.dll
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\18-Orientacao-Objetos\02-Criando-Classes\bin\Debug\net8.0\02-Criando-Classes.pdb
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\18-Orientacao-Objetos\02-Criando-Classes\obj\Debug\net8.0\02-Criando-Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\18-Orientacao-Objetos\02-Criando-Classes\obj\Debug\net8.0\02-Criando-Classes.AssemblyInfoInputs.cache
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\18-Orientacao-Objetos\02-Criando-Classes\obj\Debug\net8.0\02-Criando-Classes.AssemblyInfo.cs
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\18-Orientacao-Objetos\02-Criando-Classes\obj\Debug\net8.0\02-Criando-Classes.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\18-Orientacao-Objetos\02-Criando-Classes\obj\Debug\net8.0\02-Criando-Classes.sourcelink.json
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\18-Orientacao-Objetos\02-Criando-Classes\obj\Debug\net8.0\02-Criando-Classes.dll
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\18-Orientacao-Objetos\02-Criando-Classes\obj\Debug\net8.0\refint\02-Criando-Classes.dll
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\18-Orientacao-Objetos\02-Criando-Classes\obj\Debug\net8.0\02-Criando-Classes.pdb
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\18-Orientacao-Objetos\02-Criando-Classes\obj\Debug\net8.0\02-Criando-Classes.genruntimeconfig.cache
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\18-Orientacao-Objetos\02-Criando-Classes\obj\Debug\net8.0\ref\02-Criando-Classes.dll
