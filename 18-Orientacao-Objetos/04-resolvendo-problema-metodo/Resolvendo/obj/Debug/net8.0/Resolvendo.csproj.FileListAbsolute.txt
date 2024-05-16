@@ -1,0 +1,15 @@
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\18-Orientacao-Objetos\04-resolvendo-problema-metodo\Resolvendo\bin\Debug\net8.0\Resolvendo.exe
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\18-Orientacao-Objetos\04-resolvendo-problema-metodo\Resolvendo\bin\Debug\net8.0\Resolvendo.deps.json
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\18-Orientacao-Objetos\04-resolvendo-problema-metodo\Resolvendo\bin\Debug\net8.0\Resolvendo.runtimeconfig.json
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\18-Orientacao-Objetos\04-resolvendo-problema-metodo\Resolvendo\bin\Debug\net8.0\Resolvendo.dll
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\18-Orientacao-Objetos\04-resolvendo-problema-metodo\Resolvendo\bin\Debug\net8.0\Resolvendo.pdb
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\18-Orientacao-Objetos\04-resolvendo-problema-metodo\Resolvendo\obj\Debug\net8.0\Resolvendo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\18-Orientacao-Objetos\04-resolvendo-problema-metodo\Resolvendo\obj\Debug\net8.0\Resolvendo.AssemblyInfoInputs.cache
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\18-Orientacao-Objetos\04-resolvendo-problema-metodo\Resolvendo\obj\Debug\net8.0\Resolvendo.AssemblyInfo.cs
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\18-Orientacao-Objetos\04-resolvendo-problema-metodo\Resolvendo\obj\Debug\net8.0\Resolvendo.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\18-Orientacao-Objetos\04-resolvendo-problema-metodo\Resolvendo\obj\Debug\net8.0\Resolvendo.sourcelink.json
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\18-Orientacao-Objetos\04-resolvendo-problema-metodo\Resolvendo\obj\Debug\net8.0\Resolvendo.dll
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\18-Orientacao-Objetos\04-resolvendo-problema-metodo\Resolvendo\obj\Debug\net8.0\refint\Resolvendo.dll
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\18-Orientacao-Objetos\04-resolvendo-problema-metodo\Resolvendo\obj\Debug\net8.0\Resolvendo.pdb
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\18-Orientacao-Objetos\04-resolvendo-problema-metodo\Resolvendo\obj\Debug\net8.0\Resolvendo.genruntimeconfig.cache
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\18-Orientacao-Objetos\04-resolvendo-problema-metodo\Resolvendo\obj\Debug\net8.0\ref\Resolvendo.dll
