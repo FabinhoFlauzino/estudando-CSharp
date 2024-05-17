@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-Instanciando-objeto", "02-Instanciando-objeto.csproj", "{353AFCC3-F013-4540-96E0-AB0D12AE530B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{353AFCC3-F013-4540-96E0-AB0D12AE530B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{353AFCC3-F013-4540-96E0-AB0D12AE530B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{353AFCC3-F013-4540-96E0-AB0D12AE530B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{353AFCC3-F013-4540-96E0-AB0D12AE530B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {889E9E45-3021-4A02-804A-34DA830EA094}
+	EndGlobalSection
+EndGlobal
