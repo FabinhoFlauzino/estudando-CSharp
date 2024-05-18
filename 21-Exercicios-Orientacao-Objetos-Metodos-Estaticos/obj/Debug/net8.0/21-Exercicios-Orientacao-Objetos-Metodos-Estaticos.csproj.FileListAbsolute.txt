@@ -1,0 +1,15 @@
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\21-Exercicios-Orientacao-Objetos-Metodos-Estaticos\bin\Debug\net8.0\21-Exercicios-Orientacao-Objetos-Metodos-Estaticos.exe
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\21-Exercicios-Orientacao-Objetos-Metodos-Estaticos\bin\Debug\net8.0\21-Exercicios-Orientacao-Objetos-Metodos-Estaticos.deps.json
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\21-Exercicios-Orientacao-Objetos-Metodos-Estaticos\bin\Debug\net8.0\21-Exercicios-Orientacao-Objetos-Metodos-Estaticos.runtimeconfig.json
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\21-Exercicios-Orientacao-Objetos-Metodos-Estaticos\bin\Debug\net8.0\21-Exercicios-Orientacao-Objetos-Metodos-Estaticos.dll
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\21-Exercicios-Orientacao-Objetos-Metodos-Estaticos\bin\Debug\net8.0\21-Exercicios-Orientacao-Objetos-Metodos-Estaticos.pdb
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\21-Exercicios-Orientacao-Objetos-Metodos-Estaticos\obj\Debug\net8.0\21-Exercicios-Orientacao-Objetos-Metodos-Estaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\21-Exercicios-Orientacao-Objetos-Metodos-Estaticos\obj\Debug\net8.0\21-Exercicios-Orientacao-Objetos-Metodos-Estaticos.AssemblyInfoInputs.cache
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\21-Exercicios-Orientacao-Objetos-Metodos-Estaticos\obj\Debug\net8.0\21-Exercicios-Orientacao-Objetos-Metodos-Estaticos.AssemblyInfo.cs
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\21-Exercicios-Orientacao-Objetos-Metodos-Estaticos\obj\Debug\net8.0\21-Exercicios-Orientacao-Objetos-Metodos-Estaticos.csproj.CoreCompileInputs.cache
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\21-Exercicios-Orientacao-Objetos-Metodos-Estaticos\obj\Debug\net8.0\21-Exercicios-Orientacao-Objetos-Metodos-Estaticos.sourcelink.json
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\21-Exercicios-Orientacao-Objetos-Metodos-Estaticos\obj\Debug\net8.0\21-Exercicios-Orientacao-Objetos-Metodos-Estaticos.dll
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\21-Exercicios-Orientacao-Objetos-Metodos-Estaticos\obj\Debug\net8.0\refint\21-Exercicios-Orientacao-Objetos-Metodos-Estaticos.dll
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\21-Exercicios-Orientacao-Objetos-Metodos-Estaticos\obj\Debug\net8.0\21-Exercicios-Orientacao-Objetos-Metodos-Estaticos.pdb
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\21-Exercicios-Orientacao-Objetos-Metodos-Estaticos\obj\Debug\net8.0\21-Exercicios-Orientacao-Objetos-Metodos-Estaticos.genruntimeconfig.cache
+C:\Users\Fabinho\Desktop\GavetaDEV\c-sharp\21-Exercicios-Orientacao-Objetos-Metodos-Estaticos\obj\Debug\net8.0\ref\21-Exercicios-Orientacao-Objetos-Metodos-Estaticos.dll
