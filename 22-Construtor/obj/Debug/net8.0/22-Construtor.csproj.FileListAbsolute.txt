@@ -1,0 +1,15 @@
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\22-Construtor\obj\Debug\net8.0\22-Construtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\22-Construtor\obj\Debug\net8.0\22-Construtor.AssemblyInfoInputs.cache
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\22-Construtor\obj\Debug\net8.0\22-Construtor.AssemblyInfo.cs
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\22-Construtor\obj\Debug\net8.0\22-Construtor.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\22-Construtor\obj\Debug\net8.0\22-Construtor.sourcelink.json
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\22-Construtor\bin\Debug\net8.0\22-Construtor.exe
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\22-Construtor\bin\Debug\net8.0\22-Construtor.deps.json
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\22-Construtor\bin\Debug\net8.0\22-Construtor.runtimeconfig.json
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\22-Construtor\bin\Debug\net8.0\22-Construtor.dll
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\22-Construtor\bin\Debug\net8.0\22-Construtor.pdb
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\22-Construtor\obj\Debug\net8.0\22-Construtor.dll
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\22-Construtor\obj\Debug\net8.0\refint\22-Construtor.dll
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\22-Construtor\obj\Debug\net8.0\22-Construtor.pdb
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\22-Construtor\obj\Debug\net8.0\22-Construtor.genruntimeconfig.cache
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\22-Construtor\obj\Debug\net8.0\ref\22-Construtor.dll
