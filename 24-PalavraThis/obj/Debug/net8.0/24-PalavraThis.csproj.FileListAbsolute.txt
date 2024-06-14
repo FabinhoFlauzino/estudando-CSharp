@@ -1,0 +1,15 @@
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\24-PalavraThis\bin\Debug\net8.0\24-PalavraThis.exe
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\24-PalavraThis\bin\Debug\net8.0\24-PalavraThis.deps.json
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\24-PalavraThis\bin\Debug\net8.0\24-PalavraThis.runtimeconfig.json
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\24-PalavraThis\bin\Debug\net8.0\24-PalavraThis.dll
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\24-PalavraThis\bin\Debug\net8.0\24-PalavraThis.pdb
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\24-PalavraThis\obj\Debug\net8.0\24-PalavraThis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\24-PalavraThis\obj\Debug\net8.0\24-PalavraThis.AssemblyInfoInputs.cache
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\24-PalavraThis\obj\Debug\net8.0\24-PalavraThis.AssemblyInfo.cs
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\24-PalavraThis\obj\Debug\net8.0\24-PalavraThis.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\24-PalavraThis\obj\Debug\net8.0\24-PalavraThis.sourcelink.json
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\24-PalavraThis\obj\Debug\net8.0\24-PalavraThis.dll
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\24-PalavraThis\obj\Debug\net8.0\refint\24-PalavraThis.dll
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\24-PalavraThis\obj\Debug\net8.0\24-PalavraThis.pdb
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\24-PalavraThis\obj\Debug\net8.0\24-PalavraThis.genruntimeconfig.cache
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\24-PalavraThis\obj\Debug\net8.0\ref\24-PalavraThis.dll
