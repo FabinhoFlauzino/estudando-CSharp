@@ -1,0 +1,15 @@
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\26-Exercicio-Encapsulamento\ExercicioEncapsulamento\bin\Debug\net8.0\ExercicioEncapsulamento.exe
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\26-Exercicio-Encapsulamento\ExercicioEncapsulamento\bin\Debug\net8.0\ExercicioEncapsulamento.deps.json
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\26-Exercicio-Encapsulamento\ExercicioEncapsulamento\bin\Debug\net8.0\ExercicioEncapsulamento.runtimeconfig.json
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\26-Exercicio-Encapsulamento\ExercicioEncapsulamento\bin\Debug\net8.0\ExercicioEncapsulamento.dll
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\26-Exercicio-Encapsulamento\ExercicioEncapsulamento\bin\Debug\net8.0\ExercicioEncapsulamento.pdb
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\26-Exercicio-Encapsulamento\ExercicioEncapsulamento\obj\Debug\net8.0\ExercicioEncapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\26-Exercicio-Encapsulamento\ExercicioEncapsulamento\obj\Debug\net8.0\ExercicioEncapsulamento.AssemblyInfoInputs.cache
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\26-Exercicio-Encapsulamento\ExercicioEncapsulamento\obj\Debug\net8.0\ExercicioEncapsulamento.AssemblyInfo.cs
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\26-Exercicio-Encapsulamento\ExercicioEncapsulamento\obj\Debug\net8.0\ExercicioEncapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\26-Exercicio-Encapsulamento\ExercicioEncapsulamento\obj\Debug\net8.0\ExercicioEncapsulamento.sourcelink.json
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\26-Exercicio-Encapsulamento\ExercicioEncapsulamento\obj\Debug\net8.0\ExercicioEncapsulamento.dll
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\26-Exercicio-Encapsulamento\ExercicioEncapsulamento\obj\Debug\net8.0\refint\ExercicioEncapsulamento.dll
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\26-Exercicio-Encapsulamento\ExercicioEncapsulamento\obj\Debug\net8.0\ExercicioEncapsulamento.pdb
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\26-Exercicio-Encapsulamento\ExercicioEncapsulamento\obj\Debug\net8.0\ExercicioEncapsulamento.genruntimeconfig.cache
+C:\Users\fabio\Desktop\gaveta\estudando-CSharp\26-Exercicio-Encapsulamento\ExercicioEncapsulamento\obj\Debug\net8.0\ref\ExercicioEncapsulamento.dll
